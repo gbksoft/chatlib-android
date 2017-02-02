@@ -22,7 +22,7 @@ init connection
             .build();
 
 
-add listener, and implement needed calls
+add listener, and implement needed callbacks
 
     ChatDataListeners.ChatDataListenerAdapter socketListener = new ChatDataListeners.ChatDataListenerAdapter() {
 
